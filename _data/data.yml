@@ -267,26 +267,36 @@ recommendations:
       He is a great employee!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Habilidades &amp; Competencias
 
   toolset:
-  - name: Python & Django
+  - name: Studio 5000 - Rockwell software
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Factory talk View - SCADA Rockwell Software
     level: 98%
 
-  - name: Angular
+  - name: Experion PKS - DCS de Honeywell
     level: 98%
 
-  - name: HTML5 & CSS
-    level: 95%
+  - name: Tristation - Schneider Electric
+    level: 100%
 
-  - name: Ruby on Rails
+  - name: Intouch - SCADA Schneider Electric
     level: 85%
 
-  - name: Sketch & Photoshop
-    level: 60%
+  - name: PCVUE - SCADA Arc Informatique
+    level: 100%
+
+  - name: Safety Builder - SIS de Honeywell
+    level: 100%
+
+  - name: Rack Configurator 3500 - Bently Nevada
+    level: 95%
+
+  - name: Base de datos - Oracle
+    level: 95%
+
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
