@@ -9,12 +9,12 @@ sidebar:
 
   # Profile information
   name: Wilfredo Bravo Fajardo
-  tagline: Full Stack Developer
+  tagline: Ingeniero de Automatización y control
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
   email: willybravo1977@gmail.com
-  phone: +51 986 045 748
+  phone: +51 980 645 748
   timezone: America/Lima # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
@@ -67,7 +67,7 @@ sidebar:
 career-profile:
   title: Perfil Profesional
   summary: |
-    "Ingeniero Electrónico con más de [X] años de experiencia en automatización
+    "Ingeniero Electrónico con más de 20 años de experiencia en automatización
     y control de procesos críticos en sectores de Minería y Oil & Gas. 
     Especialista en configuración y mantenimiento de sistemas DCS 
     Honeywell Experion PKS, sistemas de seguridad funcional Triconex 
