@@ -8,20 +8,20 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
+  name: Wilfredo Bravo Fajardo
   tagline: Full Stack Developer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: willybravo1977@gmail.com
+  phone: +51 986 045 748
+  timezone: America/Lima # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://example.com/ # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
   xing: alandoe
   github: jekyll
-  telegram: # add your nickname without '@' sign
+  telegram: Willy Bravo # add your nickname without '@' sign
   gitlab:
   bitbucket:
   bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
@@ -37,39 +37,45 @@ sidebar:
   languages:
     title: Languages
     info:
-    - idiom: English
+    - idiom: Español
       level: Native
 
-    - idiom: French
-      level: Professional
+    - idiom: Ingles
+      level: Tecnico
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: #
+      level: #
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Ajedrez
       link:
 
 
-    - item: Snowboarding
+    - item: Jardineria
       link:
 
 
-    - item: Cooking
+    - item: Cocina
+      link:
+
+    - item: Carpinteria
       link:
 
 
 career-profile:
-  title: Career Profile
+  title: Perfil Profesional
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    "Ingeniero Electrónico con más de [X] años de experiencia en automatización
+    y control de procesos críticos en sectores de Minería y Oil & Gas. 
+    Especialista en configuración y mantenimiento de sistemas DCS 
+    Honeywell Experion PKS, sistemas de seguridad funcional Triconex 
+    y monitoreo de condiciones con Bently Nevada. 
+    Experto en integración de redes industriales bajo estándares CISCO
+    y gestión de activos mediante bases de datos de tiempo real 
+    (Honeywell PHD) y Oracle. Enfocado en la optimización de procesos,
+    alta disponibilidad de planta y transformación digital (Industria 4.0)."
 education:
   title: Education
   info:
