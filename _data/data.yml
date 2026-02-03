@@ -77,11 +77,11 @@ career-profile:
     (Honeywell PHD) y Oracle. Enfocado en la optimización de procesos,
     alta disponibilidad de planta y transformación digital (Industria 4.0)."
 education:
-  title: Education
+  title: Educación
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: Ingeniero electrónico Colegiado
+    university: Universidad NAcional de San Agustin de Arequipa - Peru
+    time: 1994 - 1998
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -103,11 +103,11 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Experiencia
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Coordinador de Aplicaciones Avanzadas - Hidrotratamiento y Servicios Auxiliares
+    time: 2022 - Present
+    company: Refineria Talara, Petroperu Perú
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -144,7 +144,7 @@ experiences:
         - Bullet point
 
 certifications:
-  title: Certifications
+  title: Certificaciones
   list:
   - name: CV Builder
     start: 2020
@@ -185,7 +185,7 @@ certifications:
       Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-  title: Projects
+  title: Proyectos
   intro: >
     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   assignments:
@@ -227,7 +227,7 @@ oss:
     tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-  title: Publications
+  title: Publicaciones
   intro: |
     You can list your publications in this section. Lorem ipsum dolor sit
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -249,7 +249,7 @@ publications:
     conference: "Comm. ACM 4 (1961), 51–55"
 
 recommendations:
-  title: Recommendations
+  title: Recommendaciones
   list:
   - person: Yareli Perez
     email: perezyareli@example.com
